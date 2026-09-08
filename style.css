@@ -1,0 +1,30 @@
+* {
+            box-sizing: border-box;
+        }
+
+        body {
+            display: grid;
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #ff0000;
+            color: #222;
+            background-image: url(kepek/alma_og_\(31\).jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 200px;
+            margin: auto;
+            padding: 0%;
+            
+        }
+
+        .almak{
+
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 301PX;
+            font-style: italic;
+            color: black;
+        }
